@@ -14,6 +14,9 @@ body {
     margin-left: -8px;
     margin-right: -8px;
     padding: 20px;
+    position: fixed;
+    width: 100%;
+   
  }
 
  .top {
@@ -21,7 +24,7 @@ body {
      color: #F7F8F2;
      width: 950px;
      margin: 0 auto;
-     padding: 100px;
+     padding: 220px;
      font-size: 52pt;
  }
 
@@ -35,6 +38,8 @@ body {
     width: 810px;
     height: 218px;
     padding-bottom: 50px;
+    position: relative;
+    top: -90px;
  } 
 
  img {
